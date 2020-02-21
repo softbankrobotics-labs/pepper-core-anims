@@ -7,7 +7,7 @@ See https://developer.softbankrobotics.com/pepper-qisdk for more on making appli
 ## Usage
 
 Import the animations into your Android project, for more details see
-[here](https://developer.softbankrobotics.com/pepper-qisdk/api/motion/tutorials/mimic-animal-animate)
+[here](https://developer.softbankrobotics.com/pepper-qisdk/api/motion/tutorials/mimic-animal)
 for explanations on running animations.
 
 ## Animation Families
